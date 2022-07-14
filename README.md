@@ -2,7 +2,7 @@
 Example code tiny32 interface with PR-3000-H-N01 RS485 Soil Humidity Sensor 
 
 **** You have to install library below **** 
-1.
+1)
 git clone https://github.com/tenergyinnovation/tiny32_v3.git
 
 
