@@ -1,0 +1,17 @@
+{
+  "name": "tiny32_PR-3000-H-N01,
+  "keywords": "FreeRTOS, ESP32, frameworks",
+  "description": "tiny32_PR-3000-H-N01 Library",
+  "homepage": "https://www.tenergyinnovation.co.th",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tenergyinnovation/tiny32_PR-3000-H-N01
+  },
+  "version": "1.0.0",
+  "authors": {
+    "name": "tiny32_PR-3000-H-N01,
+    "url": "https://github.com/tenergyinnovation/"
+  },
+  "frameworks": "arduino",
+  "platforms": "esp32"
+}
