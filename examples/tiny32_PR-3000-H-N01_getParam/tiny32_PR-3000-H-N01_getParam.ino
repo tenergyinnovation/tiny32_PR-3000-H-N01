@@ -9,7 +9,7 @@
  * Rev1.0       :     Origital
  * website      :     http://www.tenergyinnovation.co.th
  * Email        :     admin@innovation.co.th
- * TEL          :     +66 82-380-3299
+ * TEL          :     +66 82-308-3299
  ***********************************************************************/
 #include <Arduino.h>
 #include <tiny32_v3.h>
